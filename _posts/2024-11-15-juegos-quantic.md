@@ -7,7 +7,7 @@ image: "quantic-dream.png"
 ---
 
 <figure>
-<img src="quantic-dream.png" alt="Juegos de decisiones de Quantic Dream">
+<img src="/assets/img/quantic-dream.png" alt="Juegos de decisiones de Quantic Dream">
 </figure>
 
 # Juegos de Decisiones al Estilo Quantic Dream

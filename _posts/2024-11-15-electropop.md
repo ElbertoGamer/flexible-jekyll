@@ -7,7 +7,7 @@ image: "electropop.png"
 ---
 
 <figure>
-<img src="electropop.png" alt="Electropop">
+<img src="/assets/img/electropop.png" alt="Electropop">
 </figure>
 
 # Electropop
