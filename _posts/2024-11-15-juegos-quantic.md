@@ -5,12 +5,11 @@ tags: [video games, storytelling, decisiones]
 description: Juegos de decisiones como los de Quantic Dream
 image: "quantic-dream.png"
 ---
+# Juegos de Decisiones al Estilo Quantic Dream
 
 <figure>
-<img src="/assets/img/quantic-dream.png" alt="Juegos de decisiones de Quantic Dream">
+<img src="/flexible-jekyll/assets/img/quantic-dream.png" alt="Juegos de decisiones de Quantic Dream">
 </figure>
-
-# Juegos de Decisiones al Estilo Quantic Dream
 
 Los juegos de decisiones, también conocidos como **juegos de narrativa interactiva**, han ganado popularidad por ofrecer una experiencia cinematográfica que depende de las elecciones del jugador. **Quantic Dream**, un estudio francés, es uno de los pioneros en este género, con títulos como *Heavy Rain*, *Beyond: Two Souls* y *Detroit: Become Human*, que destacan por su narrativa profunda y personajes complejos.
 
